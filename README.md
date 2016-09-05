@@ -1,3 +1,5 @@
+cp facts/project_config.txt /etc/facter/facts.d/. 
+
 Puppet Modules
 ==============
 
